@@ -85,8 +85,6 @@ elseif key=="a" then
 keys.a=true
 elseif key=="d" then
 keys.d=true
-start()
-end
 end
 end)
 e2=mouse.KeyUp:connect(function(key)
